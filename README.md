@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Eva María de León Fajardo
 
 ## 🤓 Course overview and learning outcomes 
 

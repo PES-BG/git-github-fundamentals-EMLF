@@ -1,0 +1,1 @@
+Explorar la programación con el lenguaje de Python y refrescar la forma de trabajar en colaboración utilizando GIT.
